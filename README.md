@@ -1,5 +1,5 @@
 Codename Armageddon (Old Version) is a extraction game project I worked on long ago with poor scripting skills and other open source assets.
-This open source version has the looting system removed since it's a paid product. The looting system is called LootMod if you're interested.
+This open source version has the looting system removed since it's a paid product. The looting system is called LootMod (made by BrotalityG) if you're interested.
 
 Please take note that the game is messy since I made this with poor knowledge and game developing skills.
 
